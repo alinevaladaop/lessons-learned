@@ -1,113 +1,112 @@
-body{
-    background-color: rgb(253, 251, 251);  
-    padding-top: 80px; 
-    font-family: Verdana, Geneva, Tahoma, sans-serif; 
-    color: rgb(72, 34, 107);
-    line-height: 200%;
+body {
+  background-color: rgb(253, 251, 251);
+  padding-top: 80px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(72, 34, 107);
+  line-height: 200%;
 
 }
 
-#cabecalho{
-    position: fixed;
-    width:100% ;
-    top: 0;
-    background-color: rgb(255, 184, 184);
-    text-align: center;  
+#cabecalho {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  background-color: rgb(255, 184, 184);
+  text-align: center;
 }
 
-#menu ul{
-    list-style: none;
-    text-align: center;
+#menu ul {
+  list-style: none;
+  text-align: center;
 }
 
-#menu li{
-    display: inline;
-    margin: 30px;
-    font-weight: bold;
+#menu li {
+  display: inline;
+  margin: 30px;
+  font-weight: bold;
 }
 
-#minha_foto{
-    width: 300px;
-    border-radius: 50px;
-    margin: 30px;
-    box-shadow:0px 0px 40px 10px  rgb(72, 34, 107);
+#minha_foto {
+  width: 300px;
+  border-radius: 50px;
+  margin: 30px;
+  box-shadow: 0 0 40px 10px rgb(72, 34, 107);
 }
 
-#descricao{
-    font-size: 120%;
-    display: inline-block;
-    font-style: italic;
-    position: absolute;
-    top: 30%;
-
+#descricao {
+  font-size: 120%;
+  display: inline-block;
+  font-style: italic;
+  position: absolute;
+  top: 30%;
 }
 
-#nome{
-    margin-left: 500px;
-    font-style: normal;
+#nome {
+  margin-left: 500px;
+  font-style: normal;
 }
 
-#licoes{ 
-    margin-left: 100px;
+#licoes {
+  margin-left: 100px;
 }
 
-.licoesAprendidas{
-    margin-right: auto;
-    margin-left: 5%;
-    display: block;
+.licoesAprendidas {
+  margin-right: auto;
+  margin-left: 5%;
+  display: block;
 }
 
-#aprendizado{
-    margin-left: 4%;
-    margin-top: 5%;
+#aprendizado {
+  margin-left: 4%;
+  margin-top: 5%;
 }
 
 
-#gostei{
-    margin-left: 4%;
-    margin-top: 5%;
+#gostei {
+  margin-left: 4%;
+  margin-top: 5%;
 }
 
-#encontrar{
-    margin-left: 4%;
-    margin-top: 3%;
-
+#encontrar {
+  margin-left: 4%;
+  margin-top: 3%;
 }
 
-.tituloAprendizados{
-    font-size: larger;
-    text-align: center;
+.tituloAprendizados {
+  font-size: larger;
+  text-align: center;
 }
 
-#rodape{
-    font-size: small;
-    margin-top: 100px;
-    text-align: center;
-    background-color: rgb(255, 184, 184);
+#rodape {
+  font-size: small;
+  margin-top: 100px;
+  text-align: center;
+  background-color: rgb(255, 184, 184);
 }
 
-.lado-esquerdo{
-    width: 40%;
-    left: 0;
-    display:inline-block;
-    margin: 30px;
-    text-align: justify;
-    
-
+.lado-esquerdo {
+  width: 40%;
+  left: 0;
+  display: inline-block;
+  margin: 30px;
+  text-align: justify;
 }
 
-.lado-direito{
-    width: 20%;
-    right: 0;
-    display: inline-block;
-    margin: 30px;
-    text-align:justify;
-
+.lado-direito {
+  width: 20%;
+  right: 0;
+  display: inline-block;
+  margin: 30px;
+  text-align: justify;
 }
 
-.secaoAprendizado{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    display: inline-block;
-    letter-spacing: 0;
-    margin-top: 60px;    
+.secaoAprendizado {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: inline-block;
+  letter-spacing: 0;
+  margin-top: 60px;
+}
+
+.artigo {
+  display: inline-block;
 }
